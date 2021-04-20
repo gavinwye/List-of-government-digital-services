@@ -1,10 +1,347 @@
-Service Name,URL,Department
-ATAS,https://www.academic-technology-approval.service.gov.uk/,"Foreign, Commonwealth & Development Office"
-Get your State Pension,https://www.gov.uk/get-state-pension,Department for Work & Pensions
-Budgeting Loans Digital Service (BLDS),https://www.apply-budgeting-loan.service.gov.uk,Department for Work & Pensions
-Apply for New Style Jobseekers Allowance,https://www.apply-for-new-style-jsa.dwp.gov.uk/,Department for Work & Pensions
-Contact an Embassy Service,https://www.contact-embassy.service.gov.uk,Department for Work & Pensions
-Access to Work,https://www.get-disability-work-support.service.gov.uk/apply/,Department for Work & Pensions
-Project Application and Funding Service,https://submit-flood-coastal-erosion-funding-proposal.service.gov.uk/users/sign_in,Environment Agency
-Send Us Your FitNote,https://send-fit-note.service.gov.uk/device?lang=en,Department for Work & Pensions
-Supplier Cyber Protection,https://www.gov.uk/guidance/supplier-cyber-protection-service,Ministry of Defence
+ServiceName,url,department,departmentPath
+Acas early conciliation,https://tell.acas.org.uk/,"Advisory, Conciliation and Arbitration Service",/government/organisations/acas
+Registrations to use online training and resources on workplace relations,https://elearning.acas.org.uk/,"Advisory, Conciliation and Arbitration Service",/government/organisations/acas
+Acas training course bookings,https://obs.acas.org.uk/,"Advisory, Conciliation and Arbitration Service",/government/organisations/acas
+Animal Disease Testing Service,https://www.gov.uk/animal-disease-testing,Animal and Plant Health Agency,/government/organisations/animal-and-plant-health-agency
+TSE/FLU global net,https://science.vla.gov.uk/tseglobalnet/,Animal and Plant Health Agency,/government/organisations/animal-and-plant-health-agency
+Flu global net,https://science.vla.gov.uk/fluglobalnet/,Animal and Plant Health Agency,/government/organisations/animal-and-plant-health-agency
+Defra Disinfectant Approval Scheme,http://disinfectants.defra.gov.uk/DisinfectantsExternal/Default.aspx?Module=ApprovalsList_SI,Animal and Plant Health Agency,/government/organisations/animal-and-plant-health-agency
+"Import of products, animals, food and feed system - IPAFFS",https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system,Animal and Plant Health Agency,/government/organisations/animal-and-plant-health-agency
+BeeBase,http://www.nationalbeeunit.com/,Animal and Plant Health Agency,/government/organisations/animal-and-plant-health-agency
+Seed Certification,http://seedcert.defra.gov.uk,Animal and Plant Health Agency,/government/organisations/animal-and-plant-health-agency
+Find a Tender,https://www.find-tender.service.gov.uk,Cabinet Office,/government/organisations/cabinet-office
+Nominate someone for a UK honour,https://www.nominate-uk-honour.service.gov.uk/,Cabinet Office,/government/organisations/cabinet-office
+Register to Vote,www.registertovote.service.gov.uk,Cabinet Office,/government/organisations/cabinet-office
+Coal Mining Interactive Viewer,https://mapapps2.bgs.ac.uk/coalauthority/home.html,Coal Authority,/government/organisations/the-coal-authority
+Permits,https://forms.coal.gov.uk/,Coal Authority,/government/organisations/the-coal-authority
+Mining Reports Service,https://www.groundstability.com/,Coal Authority,/government/organisations/the-coal-authority
+Apply to extend your accounts filing deadline,https://find-and-update.company-information.service.gov.uk/extensions,Companies House,/government/organisations/companies-house
+Companies House Service (CHS) 'Find and update company information',https://www.gov.uk/get-information-about-a-company,Companies House,/government/organisations/companies-house
+Companies House WebFiling,https://ewf.companieshouse.gov.uk/,Companies House,/government/organisations/companies-house
+Apply to strike off and dissolve a company,https://www.gov.uk/strike-off-your-company-from-companies-register,Companies House,/government/organisations/companies-house
+Companies House filing service: extractives industry payment disclosures,https://www.gov.uk/government/publications/filing-reports-for-the-extractives-industries,Companies House,/government/organisations/companies-house
+Companies House: Apply to protect your details,https://find-and-update.company-information.service.gov.uk/protect-your-details/start,Companies House,/government/organisations/companies-house
+Companies House: Pay a late filing penalty,https://find-and-update.company-information.service.gov.uk/late-filing-penalty,Companies House,/government/organisations/companies-house
+Companies House: Appeal a late filing penalty,https://find-and-update.company-information.service.gov.uk/appeal-a-penalty/,Companies House,/government/organisations/companies-house
+Claim criminal injuries compensation,https://www.gov.uk/claim-compensation-criminal-injury/make-claim,Criminal Injuries Compensation Authority,/government/organisations/criminal-injuries-compensation-authority
+RHI calculator,https://renewable-heat-calculator.service.gov.uk/,"Department for Business, Energy & Industrial Strategy",/government/organisations/department-for-business-energy-and-industrial-strategy
+Primary Authority Register,https://primary-authority.beis.gov.uk/,"Department for Business, Energy & Industrial Strategy",/government/organisations/department-for-business-energy-and-industrial-strategy
+Private Rented Sector Exemption Register,https://prsregister.beis.gov.uk/NdsBeisUi/used-service-before,"Department for Business, Energy & Industrial Strategy",/government/organisations/department-for-business-energy-and-industrial-strategy
+Green Homes Grant Voucher Scheme,https://www.gov.uk/register-as-green-homes-grant-installer,"Department for Business, Energy & Industrial Strategy",/government/organisations/department-for-business-energy-and-industrial-strategy
+Green Homes Grant Voucher Scheme,https://www.gov.uk/apply-green-homes-grant,"Department for Business, Energy & Industrial Strategy",/government/organisations/department-for-business-energy-and-industrial-strategy
+Green Homes Grant Vouchers Scheme: redeem voucher,https://www.gov.uk/redeem-green-homes-grant-voucher,"Department for Business, Energy & Industrial Strategy",/government/organisations/department-for-business-energy-and-industrial-strategy
+UK Emissions Trading Registry,https://emissionstradingregistry.beis.gov.uk/,"Department for Business, Energy & Industrial Strategy",/government/organisations/department-for-business-energy-and-industrial-strategy
+Queens Award for Enterprise,https://www.gov.uk/queens-awards-for-enterprise,"Department for Business, Energy & Industrial Strategy",/government/organisations/department-for-business-energy-and-industrial-strategy
+Gigabit Broadband Voucher Scheme,https://gigabitvoucher.culture.gov.uk/,"Department for Digital, Culture, Media & Sport",/government/organisations/department-for-digital-culture-media-sport
+Access to Work,https://www.get-disability-work-support.service.gov.uk/apply/,Department for Education,/government/organisations/department-for-education
+Send Us Your FitNote,https://send-fit-note.service.gov.uk/device?lang=en,Department for Education,/government/organisations/department-for-education
+Universal Credit,https://universal-credit.service.gov.uk,Department for Education,/government/organisations/department-for-education
+Send Your Fit Note,https://send-fit-note.service.gov.uk,Department for Education,/government/organisations/department-for-education
+Apply for a Kickstart Scheme Grant for Employers,https://www.apply-kickstart-grant-employer.service.gov.uk,Department for Education,/government/organisations/department-for-education
+Cattle Tracing Service,https://www.gov.uk/cattle-tracing-online,"Department for Environment, Food & Rural Affairs",/government/organisations/department-for-environment-food-rural-affairs
+Clean Air Zones,https://www.gov.uk/check-clean-air-zone-charge,"Department for Environment, Food & Rural Affairs",/government/organisations/department-for-environment-food-rural-affairs
+Get an export health certificate,https://www.gov.uk/guidance/apply-for-an-export-health-certificate,"Department for Environment, Food & Rural Affairs",/government/organisations/department-for-environment-food-rural-affairs
+Pollutant Release and Transfer,http://prtr.defra.gov.uk/facility-search,"Department for Environment, Food & Rural Affairs",/government/organisations/department-for-environment-food-rural-affairs
+Fish Exports Service,https://manage-fish-exports.service.gov.uk,"Department for Environment, Food & Rural Affairs",/government/organisations/department-for-environment-food-rural-affairs
+Comply with UK REACH,https://comply-chemical-regulations.service.gov.uk,"Department for Environment, Food & Rural Affairs",/government/organisations/department-for-environment-food-rural-affairs
+Check if you'lll be charged to drive in a Clean Air Zone,https://www.gov.uk/check-clean-air-zone-charge,"Department for Environment, Food & Rural Affairs",/government/organisations/department-for-environment-food-rural-affairs
+Flexi-Grant - Darwin and IWT Applications Portal,https://ltsi.flexigrant.com/default.aspx,"Department for Environment, Food & Rural Affairs",/government/organisations/department-for-environment-food-rural-affairs
+Put a registration number on a vehicle,https://www.personalisedvehicleregistration.service.gov.uk/assign/vehicle-lookup,Department for International Trade,/government/organisations/department-for-international-trade
+Take a registration number off a vehicle,https://www.personalisedvehicleregistration.service.gov.uk/retain/vehicle-lookup,Department for International Trade,/government/organisations/department-for-international-trade
+Pay the HGV levy,https://www.hgvlevy.service.gov.uk/,Department for International Trade,/government/organisations/department-for-international-trade
+Pay a DVLA fine,https://www.gov.uk/pay-dvla-fine,Department for International Trade,/government/organisations/department-for-international-trade
+Tell DVLA you've sold transferred or bought a vehicle,https://www.gov.uk/sold-bought-vehicle,Department for International Trade,/government/organisations/department-for-international-trade
+Get a clamped or impounded vehicle released,https://www.gov.uk/get-a-clamped-or-impounded-vehicle-released,Department for International Trade,/government/organisations/department-for-international-trade
+Change your address on your vehicle log book (V5C),https://change-address-v5c.service.gov.uk/,Department for International Trade,/government/organisations/department-for-international-trade
+Apply for a duplicate log book (V5C),https://get-duplicate-vehicle-log-book.service.gov.uk/,Department for International Trade,/government/organisations/department-for-international-trade
+Identity,Identity,Department for International Trade,/government/organisations/department-for-international-trade
+Check if a vehicle is taxed and has an MOT,https://vehicleenquiry.service.gov.uk/,Department for International Trade,/government/organisations/department-for-international-trade
+View or share your driving licence information,https://www.viewdrivingrecord.service.gov.uk/driving-record/licence-number,Department for International Trade,/government/organisations/department-for-international-trade
+Check someones driving licence information,https://www.viewdrivingrecord.service.gov.uk/driving-record/validate,Department for International Trade,/government/organisations/department-for-international-trade
+Register your trailer to take it abroad,https://www.gov.uk/register-trailer-to-take-abroad,Department for International Trade,/government/organisations/department-for-international-trade
+Tax your vehicle,https://www.gov.uk/vehicle-tax,Department for International Trade,/government/organisations/department-for-international-trade
+Register your vehicle as off the road (SORN),https://www.gov.uk/make-a-sorn,Department for International Trade,/government/organisations/department-for-international-trade
+View vehicle record,https://www.managefleetvehicles.service.gov.uk/login,Department for International Trade,/government/organisations/department-for-international-trade
+apply-driver-digital-tachograph-card.service.gov.uk,https://tachograph-driver-external-preprod.dvla.gov.uk/capture_transaction_type,Department for International Trade,/government/organisations/department-for-international-trade
+Renew your driving licence if you're 70 or over,https://www.gov.uk/renew-driving-licence-at-70,Department for International Trade,/government/organisations/department-for-international-trade
+Fitness to Drive - Notification,https://www.gov.uk/report-driving-medical-condition,Department for International Trade,/government/organisations/department-for-international-trade
+Fitness to drive - Renewal Service,https://www.gov.uk/renew-medical-driving-licence,Department for International Trade,/government/organisations/department-for-international-trade
+Buy a personalised registration number,https://www.gov.uk/buy-a-personalised-registration-number,Department for International Trade,/government/organisations/department-for-international-trade
+ICMS,https://www.ilb.trade.gov.uk/icms/fox/live/IMP_LOGIN/login,Department for International Trade,/government/organisations/department-for-international-trade
+SPIRE,https://www.spire.trade.gov.uk/spire/fox/espire/LOGIN/login,Department for International Trade,/government/organisations/department-for-international-trade
+Get An EORI Number,https://www.gov.uk/eori,Department for Transport,/government/organisations/department-for-transport
+Charities (iCharities),https://www.gov.uk/charity-recognition-hmrc,Department for Transport,/government/organisations/department-for-transport
+Ask for a copy of your Corporation Tax UTR,https://www.tax.service.gov.uk/ask-for-copy-of-your-corporation-tax-utr,Department for Transport,/government/organisations/department-for-transport
+Look up residency status for relief at source,https://www.tax.service.gov.uk/relief-at-source,Department for Transport,/government/organisations/department-for-transport
+Apply to be an approved Lifetime ISA Manager,https://www.tax.service.gov.uk/lifetime-isa/company-structure,Department for Transport,/government/organisations/department-for-transport
+Agents for Individual,https://www.tax.service.gov.uk/tax-history/select-client,Department for Transport,/government/organisations/department-for-transport
+Payrolling benefits and expenses,https://www.tax.service.gov.uk/payrollbik/,Department for Transport,/government/organisations/department-for-transport
+Check your ERS files,https://www.tax.service.gov.uk/check-your-ers-files,Department for Transport,/government/organisations/department-for-transport
+Submit your ERS annual return,https://www.tax.service.gov.uk/submit-your-ers-annual-return/start,Department for Transport,/government/organisations/department-for-transport
+BTA,https://www.tax.service.gov.uk/business-account,Department for Transport,/government/organisations/department-for-transport
+Anti-Money Laundering Service,https://www.tax.service.gov.uk/anti-money-laundering/start/bta,Department for Transport,/government/organisations/department-for-transport
+Company Accounts Tax Online,https://www.tax.service.gov.uk/cato/sign-in?continue=/cato,Department for Transport,/government/organisations/department-for-transport
+HTS – Help To Save,https://www.gov.uk/get-help-savings-low-income,Department for Transport,/government/organisations/department-for-transport
+AOSS – Agents Online Self-Serve,https://www.tax.service.gov.uk/agent,Department for Transport,/government/organisations/department-for-transport
+Country by Country Reporting,https://www.gov.uk/guidance/check-if-you-must-send-a-country-by-country-report,Department for Transport,/government/organisations/department-for-transport
+Soft Drinks Industry Levy,https://www.tax.service.gov.uk/soft-drinks-industry-levy/register/start,Department for Transport,/government/organisations/department-for-transport
+Fulfilment House Due Diligence,https://www.gov.uk/guidance/fulfilment-house-due-diligence-scheme,Department for Transport,/government/organisations/department-for-transport
+Find and check your business rates valuation,https://www.gov.uk/correct-your-business-rates,Department for Transport,/government/organisations/department-for-transport
+Apply For A Workplace Charging Voucher,www.apply-workplace-chargepoint-grant.service.gov.uk/,Department for Transport,/government/organisations/department-for-transport
+Check your SP Forecast,https://www.gov.uk/check-state-pension,Department for Work and Pensions,/government/organisations/department-for-work-pensions
+Tell us Once,https://tell-us-someone-died.dwp.gov.uk/death/enrich/recover,Department for Work and Pensions,/government/organisations/department-for-work-pensions
+Get information about schools,https://www.get-information-schools.service.gov.uk,Department for Work and Pensions,/government/organisations/department-for-work-pensions
+Teaching Vacancies,https://teaching-vacancies.service.gov.uk/,Department for Work and Pensions,/government/organisations/department-for-work-pensions
+manage apprenticeships,https://accounts.manage-apprenticeships.service.gov.uk/,Department for Work and Pensions,/government/organisations/department-for-work-pensions
+Recruit an apprentice (v1),https://www.gov.uk/recruit-apprentice,Department for Work and Pensions,/government/organisations/department-for-work-pensions
+Find apprenticeships,https://www.gov.uk/apply-apprenticeship,Department for Work and Pensions,/government/organisations/department-for-work-pensions
+Apply To Become An Academy,https://apply-convert-academy.service.gov.uk/,Department for Work and Pensions,/government/organisations/department-for-work-pensions
+Schools Financial Benchmarking Service,https://schools-financial-benchmarking.service.gov.uk/,Department for Work and Pensions,/government/organisations/department-for-work-pensions
+Managed Your Education and Skills Funding,https://skillsfunding.service.gov.uk/,Department for Work and Pensions,/government/organisations/department-for-work-pensions
+Apply for QTS,https://teacherservices.education.gov.uk/MutualRecognition/,Department for Work and Pensions,/government/organisations/department-for-work-pensions
+Enterprise Europe Network,www.enterprise-europe.co.uk,Department for Work and Pensions,/government/organisations/department-for-work-pensions
+Blue Badge Digital Service,www.gov.uk/apply-blue-badge,"Department of Agriculture, Environment and Rural Affairs (Northern Ireland)",/government/organisations/department-of-agriculture-environment-and-rural-affairs-northern-ireland
+Bus Open Data Service,https://publish.bus-data.dft.gov.uk/,"Department of Agriculture, Environment and Rural Affairs (Northern Ireland)",/government/organisations/department-of-agriculture-environment-and-rural-affairs-northern-ireland
+Plan and manager roadworks or Street Manager,https://www.gov.uk/guidance/plan-and-manage-roadworks,"Department of Agriculture, Environment and Rural Affairs (Northern Ireland)",/government/organisations/department-of-agriculture-environment-and-rural-affairs-northern-ireland
+Electric Vehicle Homecharge Scheme,https://www.gov.uk/government/collections/government-grants-for-low-emission-vehicles,"Department of Agriculture, Environment and Rural Affairs (Northern Ireland)",/government/organisations/department-of-agriculture-environment-and-rural-affairs-northern-ireland
+Apply for first provisional service,https://www.gov.uk/apply-first-provisional-driving-licence,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+Transport Office Portal,www.gov.uk/manage-commercial-vehicle-compliance-online,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+Order compulsory basic training (CBT) certificates,https://www.gov.uk/cbt-certificates,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+Book your driving test,https://driverpracticaltest.dvsa.gov.uk/application,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+https://driverpracticaltest.dvsa.gov.uk/login,https://driverpracticaltest.dvsa.gov.uk/login,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+Change your driving test,https://driverpracticaltest.dvsa.gov.uk/login,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+Apply to become a driving instructor,https://www.gov.uk/apply-to-become-a-driving-instructor,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+Apply for a trainee driving instructor licence,https://www.gov.uk/apply-for-a-trainee-driving-instructor-licence,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+Apply for your first approved driving instructor (ADI) badge,https://www.gov.uk/apply-first-approved-driving-instructor-adi-badge,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+Update your approved driving instructor (ADI) registration,www.gov.uk/update-approved-driving-instructor-registration,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+Renew your approved driving instructor (ADI) registration,https://www.gov.uk/renew-approved-driving-instructor-adi-registration,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+Register to teach Pass Plus and order refill packs,www.gov.uk/pass-plus-approved-driving-instructor-services,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+Transfer your driving instructor registration to Great Britain,www.gov.uk/transfer-driving-instructor-registration-gb,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+DVSA practical business service,https://dsa.dft.gov.uk/obs,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+Mot testing service,www.mot-testing.service.gov.uk,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+Record Driver CPC training you provide,https://dsa.dft.gov.uk/cpctrain,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+MOT reminder service,https://www.check-mot.service.gov.uk/,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+MOT reminder service,https://www.gov.uk/mot-reminder,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+Record delegated driving test details,https://dsa.dft.gov.uk/delegated,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+Check your Driver CPC periodic training hours,https://dsa.dft.gov.uk/cpcode/,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+Check vehicle recalls,https://www.check-vehicle-recalls.service.gov.uk/recall-type,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+Theory Test Services,https://www.gov.uk/book-theory-test,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+Change your theory test appointment,https://www.gov.uk/change-theory-test,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+Roadside Payments,https://www.gov.uk/pay-dvsa-roadside-fine,Driver and Vehicle Licensing Agency,/government/organisations/driver-and-vehicle-licensing-agency
+Get your State Pension,https://www.gov.uk/get-state-pension,Driver and Vehicle Standards Agency,/government/organisations/driver-and-vehicle-standards-agency
+Budgeting Loans Digital Service (BLDS),https://www.apply-budgeting-loan.service.gov.uk,Driver and Vehicle Standards Agency,/government/organisations/driver-and-vehicle-standards-agency
+Apply for New Style Jobseekers Allowance,https://www.apply-for-new-style-jsa.dwp.gov.uk/,Driver and Vehicle Standards Agency,/government/organisations/driver-and-vehicle-standards-agency
+Apply for New Style Employment and Support Allowance,https://www.apply-new-style-employment-support-allowance.dwp.gov.uk/eligibility-start,Driver and Vehicle Standards Agency,/government/organisations/driver-and-vehicle-standards-agency
+Apply for Pension Credit,https://apply-for-pension-credit.service.gov.uk/,Driver and Vehicle Standards Agency,/government/organisations/driver-and-vehicle-standards-agency
+Repay My Debt,https://repay-my-debt.dwp.gov.uk/,Driver and Vehicle Standards Agency,/government/organisations/driver-and-vehicle-standards-agency
+Child Maintenance Service,https://childmaintenanceservice.direct.gov.uk/onlinerevive/public/landing-screen,Driver and Vehicle Standards Agency,/government/organisations/driver-and-vehicle-standards-agency
+Apply for a Direct Rent Payment,https://directpayment.universal-credit.service.gov.uk/,Driver and Vehicle Standards Agency,/government/organisations/driver-and-vehicle-standards-agency
+Find pension contact details,https://www.gov.uk/find-pension-contact-details,Driver and Vehicle Standards Agency,/government/organisations/driver-and-vehicle-standards-agency
+Manage your fluorinated gas (F gas) quota,https://manage-quota.fluorinated-gas.service.gov.uk,Environment Agency,/government/organisations/environment-agency
+EU ETS,https://euets.environment-agency.gov.uk/Authentication/Logon.aspx?ReturnUrl=%2fDefault.aspx,Environment Agency,/government/organisations/environment-agency
+Project Application and Funding Service,https://submit-flood-coastal-erosion-funding-proposal.service.gov.uk/users/sign_in,Environment Agency,/government/organisations/environment-agency
+Waste Exemptions Registrations,https://wasteexemptions.service.gov.uk/,Environment Agency,/government/organisations/environment-agency
+"Waste Carriers, Brokers and Dealers Registration",https://wastecarriersregistration.service.gov.uk/fo/start,Environment Agency,/government/organisations/environment-agency
+Report your fluorinated gas (F gas) activities,https://report.fluorinated-gas.service.gov.uk,Environment Agency,/government/organisations/environment-agency
+Apply for fluorinated gas (F gas) quota,https://apply-quota.fluorinated-gas.service.gov.uk,Environment Agency,/government/organisations/environment-agency
+Apply for ozone-depleting substances (ODS) quota,https://apply-quota.ozone-depleting-substances.service.gov.uk,Environment Agency,/government/organisations/environment-agency
+Register for an ozone-depleting substances (ODS) account,https://register.ozone-depleting-substances.service.gov.uk,Environment Agency,/government/organisations/environment-agency
+I Want to Fish,https://www.gov.uk/fishing-licences/buy-a-fishing-licence,Environment Agency,/government/organisations/environment-agency
+Public Registers Online,https://environment.data.gov.uk/public-register/view/index,Environment Agency,/government/organisations/environment-agency
+Apply for an Environmental Permit,https://www.gov.uk/guidance/apply-for-a-standard-rules-environmental-permit,Environment Agency,/government/organisations/environment-agency
+Drinking Water and Nitrate Vulnerable Zones (Environment.data),https://environment.data.gov.uk/farmers/,Environment Agency,/government/organisations/environment-agency
+WEEE Online,https://weee.service.gov.uk/,Environment Agency,/government/organisations/environment-agency
+NPWD,npwd.environment-agency.gov.uk/,Environment Agency,/government/organisations/environment-agency
+Flood Map for Planning,https://flood-map-for-planning.service.gov.uk/,Environment Agency,/government/organisations/environment-agency
+Long Term Flood Risk Information Service,https://flood-warning-information.service.gov.uk/long-term-flood-risk,Environment Agency,/government/organisations/environment-agency
+International Waste Shipments (IWS),https://international-waste-shipments.service.gov.uk/account/login,Environment Agency,/government/organisations/environment-agency
+Flood Risk Activity Exemption Service,https://www.gov.uk/government/publications/environmental-permitting-regulations-exempt-flood-risk-activities,Environment Agency,/government/organisations/environment-agency
+CRC Energy Efficiency Scheme,https://crc.environment-agency.gov.uk/crcregistry/web/login?execution=e1s1,Environment Agency,/government/organisations/environment-agency
+Flood Information Service,https://flood-warning-information.service.gov.uk/warnings,Environment Agency,/government/organisations/environment-agency
+Climate Change Agreements (CCA) Register,https://cca.environment-agency.gov.uk,Environment Agency,/government/organisations/environment-agency
+Flood Information - 5 day Forecast,https://flood-warning-information.service.gov.uk/5-day-flood-risk,Environment Agency,/government/organisations/environment-agency
+Flood Information Service - River and Sea Levels,https://flood-warning-information.service.gov.uk/river-and-sea-levels,Environment Agency,/government/organisations/environment-agency
+Environment Agency Consultations,https://consult.environment-agency.gov.uk/,Environment Agency,/government/organisations/environment-agency
+GOR,https://gor.environment-agency.gov.uk/GORExt/login.htm,Environment Agency,/government/organisations/environment-agency
+FCRM research,http://evidence.environment-agency.gov.uk/FCERM/en/Default/FCRM.aspx,Environment Agency,/government/organisations/environment-agency
+Report a Catch Return,https://catchreturn.service.gov.uk/,Environment Agency,/government/organisations/environment-agency
+Register for a fluorinated gas (F gas) account,https://register.fluorinated-gas.service.gov.uk,Environment Agency,/government/organisations/environment-agency
+Managing Water Abstraction Service,https://manage-water-abstraction-impoundment-licence.service.gov.uk/welcome,Environment Agency,/government/organisations/environment-agency
+Contact an Embassy Service,https://www.contact-embassy.service.gov.uk,Environment Agency,/government/organisations/environment-agency
+Pay to register a birth abroad,https://www.gov.uk/register-a-birth,Environment Agency,/government/organisations/environment-agency
+Pay to register a death abroad,https://www.gov.uk/register-a-death,Environment Agency,/government/organisations/environment-agency
+Apply for an emergency coronavirus loan,https://apply-for-coronavirus-overseas-loan.service.gov.uk/apply/your-location,Environment Agency,/government/organisations/environment-agency
+Get your document legalised,https://www.gov.uk/get-document-legalised,Environment Agency,/government/organisations/environment-agency
+Verify an Apostille,https://www.gov.uk/verify-apostille,Environment Agency,/government/organisations/environment-agency
+Get an emergency travel document,https://www.gov.uk/emergency-travel-document/how-to-apply,Environment Agency,/government/organisations/environment-agency
+FCDO (exDFID) Supply Partner Portal,https://fcdo.proactisportal.com/,Environment Agency,/government/organisations/environment-agency
+ATAS,https://www.academic-technology-approval.service.gov.uk/,"Foreign, Commonwealth & Development Office",/government/organisations/foreign-commonwealth-development-office
+Felling Licence Online,https://fellinglicenceonline.forestrycommission.gov.uk/portal/user/login,"Foreign, Commonwealth & Development Office",/government/organisations/foreign-commonwealth-development-office
+Biomass Suppliers List,https://biomass-suppliers-list.service.gov.uk/,Forestry Commission,/government/organisations/forestry-commission
+gangamsters licensing,https://www.gla.gov.uk/i-am-a/i-supply-workers/do-i-need-a-glaa-licence/applying-for-a-glaa-licence/,Gangmasters and Labour Abuse Authority,/government/organisations/gangmasters-and-labour-abuse-authority
+Active check,https://www.gla.gov.uk/i-am-a/i-use-workers/keep-up-to-date-with-licence-changes-active-checks/,Gangmasters and Labour Abuse Authority,/government/organisations/gangmasters-and-labour-abuse-authority
+Report a lost or stolen passport,https://www.gov.uk/report-a-lost-or-stolen-passport,Her Majesty’s Prison and Probation Service,/government/organisations/her-majestys-prison-and-probation-service
+Apply online for a UK Passport,https://www.gov.uk/apply-renew-passport,Her Majesty’s Prison and Probation Service,/government/organisations/her-majestys-prison-and-probation-service
+Dart Charge,https://www.gov.uk/pay-dartford-crossing-charge,Highways England,/government/organisations/highways-england
+Electronic extent data (polygons),https://www.gov.uk/guidance/hm-land-registry-electronic-extent-data-polygons,HM Land Registry,/government/organisations/land-registry
+Search sold property prices,https://www.gov.uk/search-house-prices,HM Land Registry,/government/organisations/land-registry
+HM Land Registry: electronic extent data (polygons),https://www.gov.uk/guidance/hm-land-registry-electronic-extent-data-polygons,HM Land Registry,/government/organisations/land-registry
+HM Land Registry: ownership and extent data,https://www.gov.uk/guidance/hm-land-registry-ownership-and-extent-data,HM Land Registry,/government/organisations/land-registry
+HM Land Registry: Searchlight,https://www.gov.uk/guidance/hm-land-registry-searchlight,HM Land Registry,/government/organisations/land-registry
+HM Land Registry: illustrative plans,https://www.gov.uk/guidance/hm-land-registry-illustrative-plans,HM Land Registry,/government/organisations/land-registry
+HM Land Registry: charge validation for mortgage lenders,https://www.gov.uk/guidance/hm-land-registry-charge-validation-for-mortgage-lenders,HM Land Registry,/government/organisations/land-registry
+HM Land Registry: Property Portfolio Consolidator,https://www.gov.uk/guidance/hm-land-registry-property-portfolio-consolidator,HM Land Registry,/government/organisations/land-registry
+HM Land Registry: volume register,https://www.gov.uk/guidance/hm-land-registry-volume-register,HM Land Registry,/government/organisations/land-registry
+HM Land Registry: 1862 Act Register,https://www.gov.uk/guidance/1862-act-register,HM Land Registry,/government/organisations/land-registry
+HM Land Registry: Transaction Data,https://www.gov.uk/guidance/hm-land-registry-transaction-data,HM Land Registry,/government/organisations/land-registry
+HM Land Registry request for information (requisition) data,https://www.gov.uk/guidance/hm-land-registry-request-for-information-requisition-data,HM Land Registry,/government/organisations/land-registry
+INSPIRE Index Polygons spatial data,https://www.gov.uk/guidance/inspire-index-polygons-spatial-data,HM Land Registry,/government/organisations/land-registry
+HM Land Registry: verify your property data,https://www.gov.uk/guidance/hm-land-registry-verify-your-property-data,HM Land Registry,/government/organisations/land-registry
+HM Land Registry Lender Services,https://www.gov.uk/guidance/hm-land-registry-lender-services,HM Land Registry,/government/organisations/land-registry
+HM Land Registry: verify your property data,https://www.gov.uk/guidance/hm-land-registry-verify-your-property-data,HM Land Registry,/government/organisations/land-registry
+HM Land Registry: Overseas Companies Ownership Data,https://www.gov.uk/guidance/hm-land-registry-overseas-companies-ownership-data,HM Land Registry,/government/organisations/land-registry
+HM Land Registry: Commercial and Corporate Ownership Data,https://www.gov.uk/guidance/hm-land-registry-commercial-and-corporate-ownership-data,HM Land Registry,/government/organisations/land-registry
+National Polygon Service,https://www.gov.uk/guidance/national-polygon-service,HM Land Registry,/government/organisations/land-registry
+HM Land Registry: Leases Dataset,https://use-land-property-data.service.gov.uk/datasets/leases,HM Land Registry,/government/organisations/land-registry
+HM Land Registry: Restrictive Covenants,https://use-land-property-data.service.gov.uk/datasets/res_cov,HM Land Registry,/government/organisations/land-registry
+HM Land Registry Business e-services,https://www.gov.uk/guidance/hm-land-registry-business-e-services,HM Land Registry,/government/organisations/land-registry
+HM Land Registry: flood risk reports,https://www.gov.uk/guidance/hm-land-registry-flood-risk-reports,HM Land Registry,/government/organisations/land-registry
+HM Land Registry MapSearch,https://www.gov.uk/guidance/mapsearch,HM Land Registry,/government/organisations/land-registry
+HM Land Registry Information Services,https://www.gov.uk/guidance/hm-land-registry-information-services#information-services,HM Land Registry,/government/organisations/land-registry
+HM Land Registry electronic document registration service (e-DRS),https://www.gov.uk/guidance/hm-land-registry-electronic-document-registration-service,HM Land Registry,/government/organisations/land-registry
+Property Alert,https://www.gov.uk/guidance/property-alert,HM Land Registry,/government/organisations/land-registry
+HM Land Registry: data sync for mortgage lenders,https://www.gov.uk/guidance/hm-land-registry-data-sync-for-mortgage-lenders,HM Land Registry,/government/organisations/land-registry
+Search for Local Land Charges,https://search-local-land-charges.service.gov.uk/,HM Land Registry,/government/organisations/land-registry
+Check a passport for travel to Europe from 1 January 2021,https://www.gov.uk/check-a-passport-travel-europe-1-january-2021,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Get a passport urgently,https://www.gov.uk/get-a-passport-urgently,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Electronic Visa Waiver,https://www.electronic-visa-waiver.service.gov.uk/apply/nationality,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Global Entry,https://global-entry.beta.homeoffice.gov.uk/register-to-apply/passportNationality,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Registered Traveller,https://www.faster-uk-entry.service.gov.uk/initial/nationality,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+tax credits,https://www.gov.uk/manage-your-tax-credits,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+SEISS,https://www.tax.service.gov.uk/self-employment-support/enter-unique-taxpayer-reference,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+NOVA,https://www.tax.service.gov.uk/nova,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Construction Industry Scheme,https://www.tax.service.gov.uk/construction-ind-scheme,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Personal Tax Account,https://www.tax.service.gov.uk/personal-account,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Trusted Helper,https://www.tax.service.gov.uk/trusted-helpers,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Tax Calc P800,https://www.gov.uk/tax-overpayments-and-underpayments,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Marriage Allowance,www.gov.uk/apply-marriage-allowance,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Company Car,tax.service.gov.uk/paye/company-car,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Medical Benefit,www.tax.service.gov.uk/paye/benefits/medical-benefit,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Check Income Tax,www.tax.service.gov.uk/check-income-tax,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Class 2 National Insurance,https://www.tax.service.gov.uk/national-insurance/class2/calculation,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Pension Annual Allowance Calculator,https://www.tax.service.gov.uk/pension-annual-allowance-calculator,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Annual Tax Summary,https://www.tax.service.gov.uk/annual-tax-summary/paye/main,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Check your State Pension,https://www.gov.uk/check-state-pension,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Guaranteed Minimum Pension,https://www.gov.uk/guidance/how-to-calculate-your-scheme-members-guaranteed-minimum-pension,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Employment Intermediary,https://www.gov.uk/send-employment-intermediary-report,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Childcare Account,https://childcare.tax.service.gov.uk/welcome-info,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Apply for 30 hours Childcare,https://childcare.tax.service.gov.uk/welcome-info,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+VAT Returns,https://www.gov.uk/send-vat-return,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Intrastat 2,https://secure.hmce.gov.uk/is2/ecom/is2/applogon/authent/,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+New Computerised Transit system,https://www.access.service.gov.uk/login/signin/creds,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Duty Deferment Electronic Statements,https://secure.hmce.gov.uk/ecom/ddes/forcelogin.asp,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Tied & Rebated Oils,https://secure.hmce.gov.uk/ecom/login/index.html,HM Revenue & Customs,/government/organisations/hm-revenue-customs
+Child Arrangements Service,https://apply-to-court-about-child-arrangements.service.justice.gov.uk/,Home Office,/government/organisations/home-office
+Check if you can get legal aid,https://checklegalaid.service.gov.uk/,Home Office,/government/organisations/home-office
+Claim a power of attorney refund,https://www.gov.uk/power-of-attorney-refund,Home Office,/government/organisations/home-office
+Make a lasting power of attorney,https://www.gov.uk/power-of-attorney/make-lasting-power,Home Office,/government/organisations/home-office
+Apply for legal aid,https://apply-for-legal-aid.service.justice.gov.uk,Home Office,/government/organisations/home-office
+Use a lasting power of attorney,https://www.gov.uk/use-lasting-power-of-attorney,Home Office,/government/organisations/home-office
+Claim for the costs of a child's funeral,https://claim-for-costs-of-a-childs-funeral.form.service.justice.gov.uk/,Home Office,/government/organisations/home-office
+Complain about a court or tribunal,https://complain-about-a-court-or-tribunal.form.service.justice.gov.uk/,Home Office,/government/organisations/home-office
+Send money to someone in prison,https://www.gov.uk/send-prisoner-money,Home Office,/government/organisations/home-office
+Send money to someone in prison,https://www.gov.uk/send-prisoner-money,Home Office,/government/organisations/home-office
+Certificated Bailiffs,https://certificatedbailiffs.justice.gov.uk/,Home Office,/government/organisations/home-office
+UTIAC,https://tribunalsdecisions.service.gov.uk/utiac,Home Office,/government/organisations/home-office
+HMCTS Court Fines,https://www.gov.uk/pay-court-fine-online,Home Office,/government/organisations/home-office
+IAC Fees (Immigration & Asylum Chamber),https://immigrationappealsonline.justice.gov.uk/IACFees/,Home Office,/government/organisations/home-office
+Miscarriages of Justice Claim Compensation,https://miscarriage-justice-compensation.service.gov.uk/MJC/application-ref.do,Home Office,/government/organisations/home-office
+Claim compensation if you’re a victim who lived with the attacker before 1 October 1979,https://same-roof-rule.form.service.justice.gov.uk/,Home Office,/government/organisations/home-office
+Contact MOJ,https://contact-moj.service.justice.gov.uk/,Home Office,/government/organisations/home-office
+Help With Prison Visits,https://www.gov.uk/help-with-prison-visits,Home Office,/government/organisations/home-office
+Visit someone in prison,https://www.gov.uk/prison-visits,Home Office,/government/organisations/home-office
+Complete the deputy report,https://complete-deputy-report.service.gov.uk/,Home Office,/government/organisations/home-office
+Registration Online Ordering (ROLO),https://www.gro.gov.uk/gro/content/certificates/login.asp,Home Office,/government/organisations/home-office
+Biometric Residence Permit/Card Not arrived,https://www.biometric-residence-permit.service.gov.uk/not-arrived/letter-received,Home Office,/government/organisations/home-office
+Report a lost or stolen biometric residence permit (BRP),https://www.biometric-residence-permit.service.gov.uk/lost-stolen,Home Office,/government/organisations/home-office
+Use the Employer Checking Service,https://www.immigrationstatuscheck.service.gov.uk/employers/,Home Office,/government/organisations/home-office
+Check someone's immigration status,https://www.gov.uk/check-immigration-status,Home Office,/government/organisations/home-office
+Update your UK Visas and Immigration account details,https://www.gov.uk/update-uk-visas-immigration-account-details,Home Office,/government/organisations/home-office
+View and prove your immigration status,https://www.gov.uk/view-prove-immigration-status,Home Office,/government/organisations/home-office
+Change your address or your legal representative's details,https://visa-address-update.service.gov.uk/,Home Office,/government/organisations/home-office
+Access UK,visas-immigration.service.gov.uk,Home Office,/government/organisations/home-office
+Ending a Tenancy Due to immigration Status,https://www.gov.uk/guidance/ending-a-tenancy-due-to-immigration-status,Home Office,/government/organisations/home-office
+make a report to the home office,https://eforms.homeoffice.gov.uk/outreach/lcs-reporting.ofml,Home Office,/government/organisations/home-office
+https://www.gov.uk/complain-uk-visas-immigration,https://www.gov.uk/complain-uk-visas-immigration,Home Office,/government/organisations/home-office
+Report an immigration or border crime,https://www.gov.uk/report-immigration-crime,Home Office,/government/organisations/home-office
+"Get your visa, immigration or citizenship documents back",https://eforms.homeoffice.gov.uk/outreach/Return_of_Documents.ofml,Home Office,/government/organisations/home-office
+Access UK 2,apply-to-visit-or-stay-in-the-uk.homeoffice.gov.uk,Home Office,/government/organisations/home-office
+Submit a General Aviation Report (sGAR),https://www.submit-general-aviation-report.service.gov.uk/welcome/index,Home Office,/government/organisations/home-office
+EU Settlement Scheme Online Contact Form,https://eu-settled-status-enquiries.service.gov.uk/start,Home Office,/government/organisations/home-office
+Access UK 2,https://apply-to-visit-or-stay-in-the-uk.homeoffice.gov.uk,Home Office,/government/organisations/home-office
+Passenger Locator Form,https://www.gov.uk/provide-journey-contact-details-before-travel-uk,Home Office,/government/organisations/home-office
+Homes England Property Consents,https://digitalservices.homesengland.org.uk/,Homes England,/government/organisations/homes-england
+Public web site,www.policeconduct.gov.uk,Independent Office for Police Conduct,/government/organisations/independent-office-for-police-conduct
+Innoavtion Funding Service,https://auth.apply-for-innovation-funding.service.gov.uk/,Innovate UK,/government/organisations/innovate-uk
+Apply for a Patent,https://www.gov.uk/apply-for-a-patent,Intellectual Property Office,/government/organisations/intellectual-property-office
+Request UK processing of an International Patent Application,https://www.gov.uk/request-uk-processing-of-international-patent-application,Intellectual Property Office,/government/organisations/intellectual-property-office
+File Documents for a pending UK Patent,https://www.gov.uk/file-documents-pending-patent,Intellectual Property Office,/government/organisations/intellectual-property-office
+Apply to register a trade mark,https://www.gov.uk/how-to-register-a-trade-mark/apply,Intellectual Property Office,/government/organisations/intellectual-property-office
+Get an uncertified copy of your patent,https://www.gov.uk/get-uncertified-electronic-copy-patent,Intellectual Property Office,/government/organisations/intellectual-property-office
+Give notice of your intention to oppose a trade mark,https://www.gov.uk/notice-to-oppose-trademark,Intellectual Property Office,/government/organisations/intellectual-property-office
+Apply to register a design,https://www.gov.uk/apply-register-design,Intellectual Property Office,/government/organisations/intellectual-property-office
+"Renew a patent, trade mark or registered design",https://renew.ipo.gov.uk/renew,Intellectual Property Office,/government/organisations/intellectual-property-office
+Orphan works: application for an orphan works licence,https://www.orphanworkslicensing.service.gov.uk/apply/work/title,Intellectual Property Office,/government/organisations/intellectual-property-office
+Under 10m Catch Recording,https://record-catch.service.gov.uk/sign-in,Marine Management Organisation,/government/organisations/marine-management-organisation
+Explore Marine Plans,https://www.gov.uk/guidance/explore-marine-plans,Marine Management Organisation,/government/organisations/marine-management-organisation
+Marine Case Management System (MCMS),https://marinelicensing.marinemanagement.org.uk/mmofox5/fox/live/,Marine Management Organisation,/government/organisations/marine-management-organisation
+Supplier Cyber Protection,https://www.gov.uk/guidance/supplier-cyber-protection-service,Ministry of Defence,/government/organisations/ministry-of-defence
+Trade Remedies Service,https://www.trade-remedies.service.gov.uk/,Ministry of Justice,/government/organisations/ministry-of-justice
+Make a Plea,https://www.gov.uk/make-a-plea,Ministry of Justice,/government/organisations/ministry-of-justice
+Pay A Court Fine,https://www.gov.uk/pay-court-fine-online,Ministry of Justice,/government/organisations/ministry-of-justice
+Reply to a jury summons,https://www.gov.uk/reply-jury-summons,Ministry of Justice,/government/organisations/ministry-of-justice
+Financial Remedy,https://manage-case.platform.hmcts.net/,Ministry of Justice,/government/organisations/ministry-of-justice
+Money Claim Online,https://www.moneyclaim.gov.uk/web/mcol/welcome,Ministry of Justice,/government/organisations/ministry-of-justice
+Online Civil Money Claims,https://www.moneyclaims.service.gov.uk/eligibility,Ministry of Justice,/government/organisations/ministry-of-justice
+Possession Claim Online,https://www.possessionclaim.gov.uk/pcol/,Ministry of Justice,/government/organisations/ministry-of-justice
+Help with Fees,https://helpwithcourtfees.service.gov.uk/,Ministry of Justice,/government/organisations/ministry-of-justice
+Make a claim to an employment tribunal,https://employmenttribunals.service.gov.uk/apply,Ministry of Justice,/government/organisations/ministry-of-justice
+Employment Tribunals Refunds,https://employmenttribunals.service.gov.uk/en/apply/refund/profile-selection,Ministry of Justice,/government/organisations/ministry-of-justice
+Respond to an employment tribunal claim,https://tribunal-response.employmenttribunals.service.gov.uk/,Ministry of Justice,/government/organisations/ministry-of-justice
+CE-File,cms.cefile-app.com,Ministry of Justice,/government/organisations/ministry-of-justice
+hmcts,https://courttribunalfinder.service.gov.uk/search/,Ministry of Justice,/government/organisations/ministry-of-justice
+Appeal to the tax tribunal,https://www.gov.uk/tax-tribunal,Ministry of Justice,/government/organisations/ministry-of-justice
+SSCS - Submit Your Appeal,https://www.gov.uk/appeal-benefit-decision,Ministry of Justice,/government/organisations/ministry-of-justice
+CROW Access Maps & Restrictions,http://www.openaccess.naturalengland.org.uk,Natural England,/government/organisations/natural-england
+Access to Evidence,http://publications.naturalengland.org.uk/,Natural England,/government/organisations/natural-england
+MAGIC,https://magic.defra.gov.uk/,Natural England,/government/organisations/natural-england
+D-RHI Register,https://www.ofgem.gov.uk/environmental-programmes/domestic-rhi/apply-now-or-log-your-myrhi-account,Ofgem,/government/organisations/ofgem
+ND RHI Register,https://rhi.ofgem.gov.uk/,Ofgem,/government/organisations/ofgem
+ECO Register,https://eco.ofgem.gov.uk/Logon/LogOn?ReturnUrl=%2f,Ofgem,/government/organisations/ofgem
+FIT CFR,https://cfr.ofgem.gov.uk/#/,Ofgem,/government/organisations/ofgem
+Renewables and CHP Register,https://renewablesandchp.ofgem.gov.uk/,Ofgem,/government/organisations/ofgem
+Register as a Childminder,https://www.register-childminder.service.gov.uk/childminder/sign-in/new-application/,Ofsted,/government/organisations/ofsted
+Register as a Nanny,https://www.register-nanny.service.gov.uk/nanny/sign-in/new-application/,Ofsted,/government/organisations/ofsted
+Report new adults in the home,https://www.report-childminder-new-adults.service.gov.uk/childminder-maintenance/sign-in/new/,Ofsted,/government/organisations/ofsted
+Pay your childcare or social care invoice ,https://www.pay-childcare-social-care-invoice.service.gov.uk/pay/invoice-details,Ofsted,/government/organisations/ofsted
+Apply to register a nursery or other daycare,https://www.register-nursery-daycare.service.gov.uk/submissions/new-form/EYO,Ofsted,/government/organisations/ofsted
+Add a new setting to an existing Ofsted registration​,https://www.add-nursery-daycare-setting.service.gov.uk/submissions/new-form/EYS,Ofsted,/government/organisations/ofsted
+Join the childcare register ,https://www.join-childcare-register.service.gov.uk/submissions/new-form/CR1,Ofsted,/government/organisations/ofsted
+Report changes to registered people in your nursery or other daycare (EY3),https://www.report-nursery-daycare-changes.service.gov.uk/submissions/new-form/EY3,Ofsted,/government/organisations/ofsted
+Report a serious childcare incident ,https://www.report-childcare-incident.service.gov.uk/serious-incident/childcare/update-incident/,Ofsted,/government/organisations/ofsted
+Apply to register if you are connected with childcare or daycare,https://www.join-nursery-daycare.service.gov.uk/submissions/new-form/EY2,Ofsted,/government/organisations/ofsted
+Rural Payments Service,https://www.gov.uk/claim-rural-payments,Rural Payments Agency,/government/organisations/rural-payments-agency
+PEACH (proceedure electronic app certificate HMI),http://ehmipeach.defra.gov.uk/,Rural Payments Agency,/government/organisations/rural-payments-agency
+SIA Licencing,https://services.sia.homeoffice.gov.uk/login/,Security Industry Authority,/government/organisations/security-industry-authority
+Manage your student loan balance,https://www.gov.uk/sign-in-to-manage-your-student-loan-balance,Student Loans Company,/government/organisations/student-loans-company
+Apply online for student finance,https://logon.slc.co.uk/cas/login,Student Loans Company,/government/organisations/student-loans-company
+Update your employment details,https://www.gov.uk/repaying-your-student-loan/update-your-employment-details,Student Loans Company,/government/organisations/student-loans-company
+Redundancy Payments,https://www.gov.uk/claim-redundancy,The Insolvency Service,/government/organisations/insolvency-service
+Insolvency Service Online Complaints Form,https://www.insolvencydirect.bis.gov.uk/ExternalOnlineForms/OnlineComplaint.aspx,The Insolvency Service,/government/organisations/insolvency-service
+Insolvency Practitioner Upload Service/Director Conduct Reporting Service,https://report-director-conduct.service.gov.uk/login,The Insolvency Service,/government/organisations/insolvency-service
+Vehicle Operator Licesing Service (VOL),https://www.vehicle-operator-licensing.service.gov.uk,Traffic Commissioners for Great Britain,/government/organisations/traffic-commissioners
+Je-S,https://je-s.rcuk.ac.uk/JeS2WebLoginSite/Login.aspx,UK Research and Innovation,/government/organisations/uk-research-and-innovation
+Product Information Database,https://www.vmd.defra.gov.uk/ProductInformationDatabase/,Veterinary Medicines Directorate,/government/organisations/veterinary-medicines-directorate
+VMD Digital Service,https://apply-to-license-veterinary-medicine.vmd.gov.uk,Veterinary Medicines Directorate,/government/organisations/veterinary-medicines-directorate
+VMD Digital Service,https://vmd.gov.uk/business,Veterinary Medicines Directorate,/government/organisations/veterinary-medicines-directorate
+Apply for Special Import,https://www.vmd.defra.gov.uk/sis/default.aspx,Veterinary Medicines Directorate,/government/organisations/veterinary-medicines-directorate

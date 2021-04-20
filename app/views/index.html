@@ -2,7 +2,7 @@
 {% extends "layout.html" %}
 
 {% block pageTitle %}
-  GOV.UK Prototype Kit
+  GOV.UK Register of Services
 {% endblock %}
 
 {% block content %}
@@ -10,34 +10,44 @@
   <div class="govuk-grid-row">
     <div class="govuk-grid-column-two-thirds">
       <h1 class="govuk-heading-xl">
-        The GOV.UK Prototype Kit
-        <span class="govuk-caption-xl">{{releaseVersion}}</span>
+        GOV.UK Register of services
       </h1>{{releaseVersion | log }}
       <p>
-        This kit lets you rapidly create HTML prototypes of GOV.UK services.
+        There have been many attempts to create a list of services. This is an attempt to bring all of these lists together in one place.
       </p>
 
       <p>
-        It contains all you need to prototype anything from simple static pages to complex, data-driven transactions.
+        Once we know where all of the servcies are we can work togethet in a more joined up way.
       </p>
 
-      <h2 class="govuk-heading-m">About this page</h2>
+      <h2 class="govuk-heading-m">Contributing</h2>
 
-      <p>We recommend you add links to your prototype to this page, rather than delete it.
-        You'll find this page in the kit at '/app/views/index.html'.</p>
+      <p>This is an open croud-sorced effort if your service isn't on the list you can contribute it. </p>
 
-      <p>You can change the service name by editing the file '/app/config.js'.</p>
+      <p>You need four peices of information:</p>
 
-      <h2 class="govuk-heading-m">Examples and documentation</h2>
-
-      <ul class="govuk-list govuk-list--bullet">
-        <li>
-          <a href="/docs/tutorials-and-examples">Example pages and documentation</a>
-        </li>
-        <li>
-          <a href="https://design-system.service.gov.uk">GOV.UK Design System</a>
-        </li>
+      <ul class="govuk-list govuk-list--number">
+        <li>The service name</li>
+        <li>The URL of the service</li>
+        <li>The department that's respobnsible for the service </li>
       </ul>
+
+      <p>Only services with a pingable URL will be included in the list.</p>
+
+      <h3 class="govuk-heading-s">By email</h3>
+
+      <p>
+        Email <a href="mailto:registerofservices@digital.cabinet-office.gov.uk">registerofservices@digital.cabinet-office.gov.uk</a> with the details above and they will be included in the list.
+      </p>
+
+      <h3 class="govuk-heading-s">By pull request on Github</h3>
+      <p>
+        Open a pull request on the <a href="#"> Register of services reposiotory</a>.
+      </p>
+
+      <h2 class="govuk-heading-m">Services</h2>
+      <p><a href="/list">View</a> and search the list using your broesers search function.</p>
+
     </div>
   </div>
 

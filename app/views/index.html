@@ -2,7 +2,7 @@
 {% extends "layout.html" %}
 
 {% block pageTitle %}
-  GOV.UK Register of Services
+  {{ serviceName }}
 {% endblock %}
 
 {% block content %}
@@ -10,13 +10,13 @@
   <div class="govuk-grid-row">
     <div class="govuk-grid-column-two-thirds">
       <h1 class="govuk-heading-xl">
-        Register of services
+        {{ serviceName }}
       </h1>{{releaseVersion | log }}
       <p>
         There have been many attempts to create a list of services. This is an attempt to bring all of these lists together in one place.
       </p>
 
-      <p class="govuk-body-l"><a class="govuk-button" href="/register">View the register</a></p>
+      <p class="govuk-body-l"><a class="govuk-button" href="/list">View the list</a></p>
       <hr class="govuk-section-break govuk-section-break--xl govuk-section-break--visible">
       <h2 class="govuk-heading-m">Data sources</h2>
       <p>The data in this list comes from a veriety of <a href="/data-sources">sources</a>.</p>
@@ -42,12 +42,12 @@
       <h3 class="govuk-heading-s">By email</h3>
 
       <p>
-        Email <a href="mailto:registerofservices@digital.cabinet-office.gov.uk">registerofservices@digital.cabinet-office.gov.uk</a> with the details above and they will be included in the list.
+        Email <a href="mailto:listofservices@digital.cabinet-office.gov.uk">listofservices@digital.cabinet-office.gov.uk</a> with the details above and they will be included in the list.
       </p>
 
       <h3 class="govuk-heading-s">By pull request on Github</h3>
       <p>
-        Open a pull request on the <a href="#"> Register of services reposiotory</a>.
+        Open a pull request on the <a href="#"> List of services reposiotory</a>.
       </p>
 
     </div>

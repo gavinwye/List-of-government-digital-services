@@ -2,7 +2,7 @@
 {% extends "layout.html" %}
 
 {% block pageTitle %}
-  GOV.UK Register of Services
+  {{ serviceName }}
 {% endblock %}
 
 {% block content %}
@@ -12,7 +12,7 @@
   <div class="govuk-grid-row">
     <div class="govuk-grid-column-full">
       <h1 class="govuk-heading-xl">
-        Register of services
+        {{ serviceName }}
       </h1>{{releaseVersion | log }}
 
       <p class="govuk-body-s">Use cmd/ctrl + f to search for entries.</p>

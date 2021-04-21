@@ -4,8 +4,8 @@ const services =  require('./data/services.json');
 
 // Add your routes here - above the module.exports line
 
-router.get('/register', (req, res) => {
-  res.render('register',
+router.get('/list', (req, res) => {
+  res.render('list',
     {
       data: {
         services: services,

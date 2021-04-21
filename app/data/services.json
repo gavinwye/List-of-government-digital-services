@@ -1088,14 +1088,14 @@
   {
     "ServiceName": "Report a lost or stolen passport",
     "url": "https://www.gov.uk/report-a-lost-or-stolen-passport",
-    "department": "Her Majesty’s Prison and Probation Service",
-    "departmentPath": "/government/organisations/her-majestys-prison-and-probation-service"
+    "department": "Home Office",
+    "departmentPath": "/government/organisations/home-office"
   },
   {
     "ServiceName": "Apply online for a UK Passport",
     "url": "https://www.gov.uk/apply-renew-passport",
-    "department": "Her Majesty’s Prison and Probation Service",
-    "departmentPath": "/government/organisations/her-majestys-prison-and-probation-service"
+    "department": "Home Office",
+    "departmentPath": "/government/organisations/home-office"
   },
   {
     "ServiceName": "Dart Charge",

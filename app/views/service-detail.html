@@ -1,0 +1,220 @@
+{% extends "layout.html" %} {% block pageTitle %} {{ serviceName }} {% endblock %} {% block content %} <div class="govuk-grid-row">
+  <div class="govuk-grid-column-full">
+    <a href="#" class="govuk-back-link">Back</a>
+    <span class="govuk-caption-xl">Service details</span>
+    <h1 class="govuk-heading-xl">Service Name</h1>
+    <h2 class="govuk-heading-m">Service Details</h2>
+    {{ govukSummaryList({
+      rows: [
+        {
+          key: {
+            text: "Service Name"
+          },
+          value: {
+            text: "Sarah Philips"
+          }
+        },
+        {
+          key: {
+            text: "Service URL"
+          },
+          value: {
+            text: "https://www.service.gov.uk"
+          }
+        },
+        {
+          key: {
+            text: "Contact email address"
+          },
+          value: {
+            html: "any.body@department.gov.uk"
+          }
+        },
+        {
+          key: {
+            text: "Date the service was launched"
+          },
+          value: {
+            html: "dd/mm/yyyy"
+          }
+        }
+      ]
+    }) }}
+
+    <h3 class="govuk-heading-m">Number of accounts</h3>
+    {{ govukSummaryList({
+      rows: [
+        {
+          key: {
+            text: "Number of accounts created since launch"
+          },
+          value: {
+            text: "123456"
+          }
+        },
+        {
+          key: {
+            text: "Number of accounts 'inactive' since launch"
+          },
+          value: {
+            text: "123456"
+          }
+        },
+        {
+          key: {
+            text: "Number of accounts accessed in the last 12 months"
+          },
+          value: {
+            html: "123456"
+          }
+        },
+        {
+          key: {
+            text: "Number of accounts accessed in the last 6 months"
+          },
+          value: {
+            html: "123456"
+          }
+        },
+        {
+          key: {
+            text: "Number of accounts accessed in the last 1 month"
+          },
+          value: {
+            html: "123456"
+          }
+        }
+      ]
+    }) }}
+
+    <h2 class="govuk-heading-l">Data collected by this service</h2>
+    <h3 class="govuk-heading-m">Personal details</h3>
+    <ul class="govuk-list govuk-list--bullet">
+      <li>Title (Mrs, Mr, Dr, Ms)</li>
+      <li>Name (first, middle, last name)</li>
+      <li>Date of birth</li>
+      <li>Gender</li>
+      <li>Sexuality</li>
+      <li>Nationality</li>
+      <li>Relationship status</li>
+      <li>Children or dependents</li>
+      <li>Home address</li>
+      <li>Postcode</li>
+      <li>Previous addresses</li>
+      <li>Contact number</li>
+      <li>Email address</li>
+      <li>Bank details</li>
+      <li>Passport number</li>
+      <li>Immigration status</li>
+      <li>Visa number</li>
+      <li>Payment card details</li>
+    </ul>
+    <h3 class="govuk-heading-m">National insurance & tax</h3>
+    <p>Financial contributions & summaries related to income</p>
+    <ul class="govuk-list govuk-list--bullet">
+      <li>National Insurance number</li>
+      <li>Unique taxpayer reference</li>
+      <li>P45</li>
+      <li>P60</li>
+    </ul>
+    <h3 class="govuk-heading-m">Workplace (details on current place of employment)</h3>
+    <ul class="govuk-list govuk-list--bullet">
+      <li>Workplace name</li>
+      <li>Workplace address</li>
+      <li>Workplace contact (phone number or email address)</li>
+    </ul>
+    <h3 class="govuk-heading-m">Personal vehicles (details related to privately owned vehicles)</h3>
+    <ul class="govuk-list govuk-list--bullet">
+      <li>Driving licence number / Vehicle registration number</li>
+      <li>Driving licence issue date</li>
+      <li>Driving licence expiry date</li>
+      <li>Car licence plate</li>
+      <li>Blue badge number</li>
+    </ul>
+    <h3 class="govuk-heading-m">Companies/corporate bodies (set-up information)</h3>
+    <ul class="govuk-list govuk-list--bullet">
+      <li>Name of the company</li>
+      <li>Company registration number</li>
+      <li>Date of registration</li>
+      <li>Details of directors</li>
+      <li>Main registered office address</li>
+      <li>Main UK business address</li>
+    </ul>
+    <h3 class="govuk-heading-m">Business information (trading details)</h3>
+    <ul class="govuk-list govuk-list--bullet">
+      <li>Business sector (e.g Finance, Hospitality, Education etc)</li>
+      <li>Importer / exporter</li>
+      <li>Size of business</li>
+      <li>Revenue</li>
+      <li>Business bank details</li>
+      <li>VAT number</li>
+      <li>Business registered vehicles (car, lorry, boat, plane etc)</li>
+      <li>Licence to trade (fishing licence, weapons)</li>
+    </ul>
+    <h3 class="govuk-heading-m">Charities (set-up information)</h3>
+    <ul class="govuk-list govuk-list--bullet">
+      <li>Name of charity</li>
+      <li>Charity registration number</li>
+      <li>Charity commission number</li>
+    </ul>
+    <h3 class="govuk-heading-m">Public bodies (set-up information)</h3>
+    <ul class="govuk-list govuk-list--bullet">
+      <li>Types of public body</li>
+      <li>Name of public body</li>
+      <li>Details of executive</li>
+    </ul>
+    <h3 class="govuk-heading-m">Schools (infant, primary & secondary)</h3>
+    <ul class="govuk-list govuk-list--bullet">
+      <li>School name</li>
+      <li>School address</li>
+      <li>School size</li>
+      <li>Age groups</li>
+    </ul>
+    <h3 class="govuk-heading-m">Further & higher education (colleges & universities)</h3>
+    <ul class="govuk-list govuk-list--bullet">
+      <li>Student finance number</li>
+      <li>College/university details</li>
+      <li>Course name</li>
+    </ul>
+    <h3 class="govuk-heading-m">Nursery & childcare</h3>
+    <ul class="govuk-list govuk-list--bullet">
+      <li>Nursery name</li>
+      <li>Nursery address</li>
+    </ul>
+    <h3 class="govuk-heading-m">Courts & prison related</h3>
+    <ul class="govuk-list govuk-list--bullet">
+      <li>Court number</li>
+      <li>Court name</li>
+      <li>Court address</li>
+      <li>Prison name</li>
+      <li>Prison address</li>
+    </ul>
+    <h3 class="govuk-heading-m">Health</h3>
+    <ul class="govuk-list govuk-list--bullet">
+      <li>NHS number</li>
+      <li>Disability Living Allowance reference</li>
+      <li>Medical condition/s</li>
+    </ul>
+    <h3 class="govuk-heading-m">The type of notifications the account offer users</h3>
+    <ul class="govuk-list govuk-list--bullet">
+      <li>Email</li>
+      <li>Text Message</li>
+      <li>Push notifications</li>
+      <li>Letters</li>
+      <li>Robot calls</li>
+    </ul>
+    <h3 class="govuk-heading-m">Verification methods used</h3>
+    <ul class="govuk-list govuk-list--bullet">
+      <li>Verify</li>
+      <li>HMRC SCP</li>
+      <li>Passport</li>
+      <li>Birth certificate</li>
+      <li>Utility bills</li>
+    </ul>
+    <h3 class="govuk-heading-m">Other user information used to manage the account and notifications</h3>
+    <ul class="govuk-list govuk-list--bullet">
+      <li>Security questions (recovery)</li>
+      <li>Contact preference (e.g contact me by email, letter ect...)</li>
+    </ul>
+  </div>
+</div> {% endblock %}

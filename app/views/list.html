@@ -15,7 +15,7 @@
         {{ serviceName }}
       </h1>{{releaseVersion | log }}
 
-      <p class="govuk-body-s">Use cmd/ctrl + f to search for entries.</p>
+      <p class="govuk-body-s">Use cmd/ctrl + f to search.</p>
 
       {% from "govuk/components/table/macro.njk" import govukTable %}
 
@@ -36,9 +36,9 @@
                 </a>
               </td>
               <td class="govuk-table__cell">
-                <a class="govuk-link" href="https://gov.uk{{service.departmentPath}}">
+                <!-- <a class="govuk-link" href="https://gov.uk{{service.departmentPath}}"> -->
                   {{service["department"]}}
-                </a>
+                <!-- </a> -->
               </td>
             </tr>
           {%- endfor %}

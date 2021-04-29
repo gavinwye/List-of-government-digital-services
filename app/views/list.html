@@ -18,22 +18,16 @@
       <table class="govuk-table">
         <thead class="govuk-table__head">
           <tr class="govuk-table__row">
-            <th scope="col" class="govuk-table__header">Service Name</th>
-            <th scope="col" class="govuk-table__header">Department</th>
+            <th scope="col" class="govuk-table__header">Service</th>
           </tr>
         </thead>
         <tbody class="govuk-table__body">
-          {% for service in data.services %}
+          {% for url in data.workingServices %}
             <tr class="govuk-table__row">
               <td class="govuk-table__cell">
-                <a class="govuk-link" href="{{service.url}}">
-                  {{service["ServiceName"]}}
+                <a class="govuk-link" href="{{url}}">
+                  {{ url }}
                 </a>
-              </td>
-              <td class="govuk-table__cell">
-                <!-- <a class="govuk-link" href="https://gov.uk{{service.departmentPath}}"> -->
-                  {{service["department"]}}
-                <!-- </a> -->
               </td>
             </tr>
           {%- endfor %}
